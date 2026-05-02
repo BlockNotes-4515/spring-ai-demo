@@ -109,7 +109,7 @@ Thank you for respecting these guidelines and helping us maintain the integrity 
 - **Website:** https://www.linkedin.com/in/dhruv-dhayal-9568b7262/
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc3MDg1NjUsIm5iZiI6MTc3NzcwODI2NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTAyVDA3NTEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyYmFhMGJmMzc5OTEzN2NhMjlmYTNjMDk3NjI3YzYxMWNhMmFiZDI5YzNjMjg1YjM3Y2E5ZmY4YTA3YTcwZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.SayUwvyG9PeS45cz9lc3eZAcRwxunm84cZYZJMRdMuI" width="250" alt="Header GIF"/>
+  <img src="footer.png" width="250" alt="Header GIF"/>
 </p>
 
 This is the Official repository of **Java Spring AI Demo: Stock Photogenerator App and Recipe Maker** on Udemy.

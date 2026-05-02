@@ -107,3 +107,9 @@ Thank you for respecting these guidelines and helping us maintain the integrity 
 
 - **Email:** dhruv.dhayal@s.amity.edu
 - **Website:** https://www.linkedin.com/in/dhruv-dhayal-9568b7262/
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="250" alt="Header GIF"/>
+</p>
+
+This is the Official repository of **Java Spring AI Demo: Stock Photogenerator App and Recipe Maker** on Udemy.

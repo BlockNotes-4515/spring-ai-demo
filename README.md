@@ -77,7 +77,7 @@ You are not permitted to share, distribute, or publicly post any course material
 
 ## 3. Intellectual Property
 
-All course materials are protected by copyright laws and are the intellectual property of **Faisal Memon** and **EmbarkX**.
+All course materials are protected by copyright laws and are the intellectual property of **Dhruv Dhayal** and **Amity University, Noida**.
 
 Unauthorized use, reproduction, or distribution of these materials is strictly prohibited.
 
@@ -87,7 +87,7 @@ Unauthorized use, reproduction, or distribution of these materials is strictly p
 
 If you become aware of any unauthorized sharing or distribution of course materials, please report it immediately to:
 
-📧 **embarkxofficial@gmail.com**
+📧 **dhruv.dhayal@s.amity.edu**
 
 ---
 

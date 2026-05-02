@@ -109,7 +109,7 @@ Thank you for respecting these guidelines and helping us maintain the integrity 
 - **Website:** https://www.linkedin.com/in/dhruv-dhayal-9568b7262/
 
 <p align="center">
-  <img src="footer.png" width="250" alt="Header GIF"/>
+  <img src="footer.png" width="250" width="500" height="300" alt="Header GIF"/>
 </p>
 
 This is the Official repository of **Java Spring AI Demo: Stock Photogenerator App and Recipe Maker** on Udemy.
